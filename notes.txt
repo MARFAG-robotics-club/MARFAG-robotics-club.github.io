@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>MARFAG Coorp.</title>
+  <link rel="stylesheet"  href="style.css"/>
+</head>
+
+<body>
+  <center>
+    	<nav>
+		<ul>
+			<li class="selected">Home</li>
+			<li><a href="life.html">life</a></li>
+			<li><a href="downloads.html">downloads</a></li>
+
+		</ul>
+	</nav>
+   <--! website content goes here>
+  </center>
+</body>
+
+</html>
